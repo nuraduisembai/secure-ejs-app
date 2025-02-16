@@ -1,0 +1,15 @@
+<% for (let task of tasks) { %>
+    <div>
+        <h3><%= task.title %></h3>
+        <p><%= task.description %></p>
+        <form action="/tasks/delete/<%= task._id %>" method="POST">
+            <button type="submit">Удалить</button>
+        </form>
+    </div>
+<% } %>
+
+<form action="/tasks/add" method="POST">
+    <input type="text" name="title" placeholder="Название задачи" required>
+    <input type="text" name="description" placeholder="Описание" required>
+    <button type="submit">Добавить</button>
+</form>
