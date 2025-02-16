@@ -1,19 +1,10 @@
 
-Student: Duisembay Nurassyl,Serikkali Raiymbek, Bekesh Madi
+Student: Duisembay Nurassyl, Serikkali Raiymbek, Bekesh Madi
 Group: IT-2303
 
-Render: https://secure-ejs-app.onrender.com
-.env:
-MONGO_URI=mongodb+srv://nuraduisembai:nurasil2004@assignment4.zwcvc.mongodb.net/?retryWrites=true&w=majority&appName=Assignment4
-JWT_SECRET=aadab97057e7cd65fc45d175e0d886389766e33b1fe71085ad6ede3ba9b5958b
-SESSION_SECRET=121903bb-770a-41f3-ac0f-00d7e8b4a50f
-PORT=5050
+Deployed Render application: https://secure-ejs-app.onrender.com
 
 github: https://github.com/nuraduisembai/secure-ejs-app
-
-
-
-
 
 📌 Secure Task Manager
 
@@ -93,4 +84,12 @@ node app.js
 Добавь переменные окружения MONGO_URI, JWT_SECRET, SESSION_SECRET
 
 Дождись завершения деплоя и используй выданную ссылку 🌍
+
+Скриншоты:
+![image](https://github.com/user-attachments/assets/fa160534-2dfc-46dc-a474-3a002456f152)
+![image](https://github.com/user-attachments/assets/dbb8517a-5f9b-4a96-9c81-4ba7c6df7a3d)
+![image](https://github.com/user-attachments/assets/beb67811-687b-4337-a98a-15d9ac9e84fd)
+![image](https://github.com/user-attachments/assets/8f8f2eb7-4fe5-4bf9-922a-f9aa2ced5327)
+
+
 
